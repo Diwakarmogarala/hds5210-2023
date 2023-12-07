@@ -9,7 +9,7 @@ Each week, you'll receive a feedback file in GitHub showing a final grade and an
 * 2 pts - You correctly merged the data in the CMS files into the right shape
 
 ## Part 2 - Joining with NPI Data
-* 2 pts - **Your merge statement isn't quite right, but tried to correct for it.**
+* 2 pts - You correctly joined the CMS and NPI data. **Your merge statement is a little different from the solution, which is why your number of columns initially differed from the assert statement.**
 
 ## Part 3 - State Column
 * 2 pts - You correctly created the new State Column
